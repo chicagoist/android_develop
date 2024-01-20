@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess</string>
+    <string name="example">10 + 5 = ?</string>
+    <string name="enter_answer">Input your answer</string>
+    <string name="try_to_gгess">Try to guess!</string>
+</resources>

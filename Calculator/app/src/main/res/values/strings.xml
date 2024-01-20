@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guess</string>
+    <string name="example">10 + 5 = ?</string>
+    <string name="enter_answer">Введите ответ</string>
+    <string name="button_for_answer" translatable="false">ANSWER</string>
+    <string name="sorry_the_answer_is_incorrect" translatable="false">Sorry, the answer is incorrect!</string>
+    <string name="correct_answer" translatable="false">You are right!</string>
+    <string name="try_to_gгess">Угадайка!</string>
+</resources>
